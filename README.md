@@ -1,5 +1,5 @@
 Check this app in action:
-https://eduardogenari.github.io/react-tenzies
+https://eduardogenari.github.io/react-tenzies ⚡
 <!--
 # Getting Started with Create React App
 
